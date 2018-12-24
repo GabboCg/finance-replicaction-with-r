@@ -1,0 +1,20 @@
+---
+title: "Finanzas Reproducible"
+subtitle: "utilizando R"
+author: "Gabriel Cabrera "
+date: "2018/23/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["dharma-fonts.css", "dharma-theme.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
